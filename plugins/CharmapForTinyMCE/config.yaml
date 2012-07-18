@@ -1,0 +1,10 @@
+id: 'CharmapForTinyMCE'
+name: 'CharmapForTinyMCE'
+version: 1.0
+description: 'Add feature to Insert Special Characters for TinyMCE on the Movable Type.'
+author_name: 'Taichi Kaminogoya'
+author_link: 'http://blog.2xup.org/'
+
+editors:
+  tinymce:
+    extension: extension.tmpl
